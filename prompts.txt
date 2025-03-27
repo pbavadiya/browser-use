@@ -1,0 +1,11 @@
+step#1
+I'm planning for camping, create a list of 5 essential items for camping 
+
+step#2
+go the amazon and add those items in the cart, make sure to choose the best products.
+
+step#3
+show me the cart at the end and make sure all the items are included. 
+
+
+go to the Microsoft azure, aws and GCP cloud service pages and list if any services are down in north america 
